@@ -12,6 +12,7 @@
 		303385EA275903780039CFBB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 303385E9275903780039CFBB /* Assets.xcassets */; };
 		303385ED275903780039CFBB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 303385EC275903780039CFBB /* Preview Assets.xcassets */; };
 		303385F42759039A0039CFBB /* Album.swift in Sources */ = {isa = PBXBuildFile; fileRef = 303385F32759039A0039CFBB /* Album.swift */; };
+		303385F627590B4B0039CFBB /* AlbumViewDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 303385F527590B4B0039CFBB /* AlbumViewDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		303385E9275903780039CFBB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		303385EC275903780039CFBB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		303385F32759039A0039CFBB /* Album.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Album.swift; sourceTree = "<group>"; };
+		303385F527590B4B0039CFBB /* AlbumViewDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumViewDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				303385E5275903770039CFBB /* DemoDrakeApp.swift */,
 				303385E7275903770039CFBB /* ContentView.swift */,
+				303385F527590B4B0039CFBB /* AlbumViewDetail.swift */,
 				303385F32759039A0039CFBB /* Album.swift */,
 				303385E9275903780039CFBB /* Assets.xcassets */,
 				303385EB275903780039CFBB /* Preview Content */,
@@ -143,6 +146,7 @@
 				303385E8275903770039CFBB /* ContentView.swift in Sources */,
 				303385E6275903770039CFBB /* DemoDrakeApp.swift in Sources */,
 				303385F42759039A0039CFBB /* Album.swift in Sources */,
+				303385F627590B4B0039CFBB /* AlbumViewDetail.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
